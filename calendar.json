@@ -473,5 +473,106 @@
     "dimodifikasi": "20240129T115903Z",
     "status": "CONFIRMED"
   },
-  "created-at": "2024-01-29 11:15"
+  "20250101": {
+    "deskripsi": "Hari Tahun Baru",
+    "dibuat": "20210826T115903Z",
+    "dimodifikasi": "20210826T115903Z",
+    "status": "CONFIRMED"
+  },
+  "20250127": {
+    "deskripsi": "Hari Isra Mikraj Nabi Muhammad SAW",
+    "dibuat": "20210826T115932Z",
+    "dimodifikasi": "20210826T115932Z",
+    "status": "CONFIRMED"
+  },
+  "20250129": {
+    "deskripsi": "Tahun Baru Imlek 2567 Kongzili",
+    "dibuat": "20210826T115927Z",
+    "dimodifikasi": "20210826T115927Z",
+    "status": "CONFIRMED"
+  },
+  "20250329": {
+    "deskripsi": "Hari Nyepi Tahun Baru Saka 1947",
+    "dibuat": "20210826T115907Z",
+    "dimodifikasi": "20210826T115907Z",
+    "status": "CONFIRMED"
+  },
+  "20250331": {
+    "deskripsi": "Hari Raya Idul Fitri 1446 H",
+    "dibuat": "20210826T115917Z",
+    "dimodifikasi": "20210826T115917Z",
+    "status": "CONFIRMED"
+  },
+  "20250401": {
+    "deskripsi": "Hari Raya Idul Fitri 1446 H",
+    "dibuat": "20210826T115917Z",
+    "dimodifikasi": "20210826T115917Z",
+    "status": "CONFIRMED"
+  },
+  "20250418": {
+    "deskripsi": "Hari Wafat Yesus Kristus",
+    "dibuat": "20210826T115932Z",
+    "dimodifikasi": "20210826T115932Z",
+    "status": "CONFIRMED"
+  },
+  "20250420": {
+    "deskripsi": "Hari Wafat Yesus Kristus",
+    "dibuat": "20210826T115932Z",
+    "dimodifikasi": "20210826T115932Z",
+    "status": "CONFIRMED"
+  },
+  "20250501": {
+    "deskripsi": "Hari Buruh Internasional",
+    "dibuat": "20210826T115917Z",
+    "dimodifikasi": "20210826T115917Z",
+    "status": "CONFIRMED"
+  },
+  "20250512": {
+    "deskripsi": "Hari Raya Waisak 2569 BE",
+    "dibuat": "20210826T115903Z",
+    "dimodifikasi": "20210826T115903Z",
+    "status": "CONFIRMED"
+  },
+  "20250529": {
+    "deskripsi": "Hari Kenaikan Yesus Kristus",
+    "dibuat": "20210826T115927Z",
+    "dimodifikasi": "20210826T115927Z",
+    "status": "CONFIRMED"
+  },
+  "20250601": {
+    "deskripsi": "Hari Lari Pancasila",
+    "dibuat": "20210826T115903Z",
+    "dimodifikasi": "20210826T115903Z",
+    "status": "CONFIRMED"
+  },
+  "20250606": {
+    "deskripsi": "Hari Idul Adha 1446 H",
+    "dibuat": "20210826T115907Z",
+    "dimodifikasi": "20210826T115907Z",
+    "status": "CONFIRMED"
+  },
+  "20250627": {
+    "deskripsi": "Tahun Baru Islam 1 Muharam 1447 H",
+    "dibuat": "20210826T115907Z",
+    "dimodifikasi": "20210826T115907Z",
+    "status": "CONFIRMED"
+  },
+  "20250817": {
+    "deskripsi": "Hari Proklamasi Kemerdekaan",
+    "dibuat": "20210826T115903Z",
+    "dimodifikasi": "20210826T115903Z",
+    "status": "CONFIRMED"
+  },
+  "20250905": {
+    "deskripsi": "Hari Maulid Nabi Muhammad SAW",
+    "dibuat": "20210826T115927Z",
+    "dimodifikasi": "20210826T115927Z",
+    "status": "CONFIRMED"
+  },
+  "20251225": {
+    "deskripsi": "Hari Kelahiran Yesus Kristus",
+    "dibuat": "20210826T115907Z",
+    "dimodifikasi": "20210826T115907Z",
+    "status": "CONFIRMED"
+  }
 }
